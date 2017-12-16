@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 16 20:18:57 2017
 
-@author: viksr
+@author: Vikram Bharadwaj
 """
 # This is a Simple Aplication that classifies a Tweet as a Positive one or a Negative one.
 
