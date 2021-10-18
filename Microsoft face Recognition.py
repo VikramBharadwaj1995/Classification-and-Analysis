@@ -5,7 +5,7 @@ Created on Mon Oct  8 23:56:53 2018
 @author: viksr
 """
 
-import requests
+# import requests
 # If you are using a Jupyter notebook, uncomment the following line.
 #%matplotlib inline
 import matplotlib.pyplot as plt
